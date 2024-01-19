@@ -1,6 +1,6 @@
 # 2024_AQL_DS
 
-- By [**Majid Sohrabi**](https://www.hse.ru/en/org/persons/401648437) for HSE University, Moscow, Russia
+- The course is created by [**Majid Sohrabi**](https://www.hse.ru/en/org/persons/401648437) for HSE University, Moscow, Russia
 
 - Program Link: [Master's Programme **Data Science**](https://www.hse.ru/en/ma/datasci/)
 
