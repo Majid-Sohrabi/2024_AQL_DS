@@ -16,5 +16,6 @@ I will collect your home assignment solutions through email.
 | 03 | [Week_4/[HW3_AQL]-YOUR_NAME.ipynb](Week_4/[HW3_AQL]-YOUR_NAME.ipynb)| Feb, 21 |
 | 04 | [Week_5/[HW4_AQL]-YOUR_NAME.ipynb](Week_5/[HW4_AQL]-YOUR_NAME.ipynb)| Mar, 17 |
 | 05 | [Week_7/[HW5_AQL]-YOUR_NAME.ipynb](Week_7/[HW5_AQL]-YOUR_NAME.ipynb)| Apr, 10 |
+| 06 | [Week_9/[HW6_AQL]-YOUR_NAME.ipynb](Week_9/[HW6_AQL]-YOUR_NAME.ipynb)| Apr, 24 |
 
 
